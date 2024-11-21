@@ -18,7 +18,7 @@ public class Cheers {
                     System.out.println("an " + inputWord.charAt(i)+ ": " + inputWord.charAt(i)+ "!");
                     i++;
                 } else {
-                System.out.println("a " + inputWord.charAt(i)+ ": " + inputWord.charAt(i)+ "!");
+                System.out.println("a  " + inputWord.charAt(i)+ ": " + inputWord.charAt(i)+ "!");
                 i++;
 
             }
